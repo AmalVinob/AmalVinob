@@ -4,9 +4,7 @@
 
 <h2 align="left">Beginner Data Scientist</h2>
 
-<p align="left">
-  Associate Technical Lead at <a href="https://www.oneorigin.us/">OneOrigin</a> 🛰️
-</p>
+
 
 
 <p align="left">
